@@ -19,6 +19,6 @@ descent — reproducing the SLP-Training / SLP-Validation spreadsheet exactly.
 
 ## Run
 \`\`\`
-pip install -r requirements.txt
+pip install -r requirements.txt # Only if u have not installed mathplotlib
 python slp_iris.py
 \`\`\`
