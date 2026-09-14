@@ -1,6 +1,6 @@
 # slp-iris-classifier# Single Layer Perceptron — Iris Setosa vs Versicolor
 
-Assignment 1 (Single Layer Perceptron) — [Your Name], [Your NIM]
+Assignment 1 (Single Layer Perceptron)
 
 Binary classification of Iris Setosa (0) vs Versicolor (1) using a single-layer
 perceptron with sigmoid activation, trained via per-sample (online) gradient
